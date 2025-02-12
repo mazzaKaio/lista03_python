@@ -3,7 +3,12 @@
 
 salario = float(input("Digite seu salário: "))
 
-if salario > 1250:
+if salario <= 1250:
+    aumento = 0.15
+else:
     aumento = 0.10
-    
+
+salarioPromocao = salario * aumento
+
+print("Seu salário pós-aumento será de:", salarioPromocao)
 print("'Kaio Gomes do Nascimento Mazza'")
