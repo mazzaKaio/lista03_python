@@ -1,5 +1,5 @@
-# Peça dois números, se o PRIMERIO NÚMERO for MAIOR que o SEGUNDO, exiba primerio o SEGUNDO NÚMERO
-# caso contrário, exiba o PRIMEIOR NÚMERO e depois o SEGUNDO
+# Peça dois números. Se o primeiro for maior que o segundo, exiba primeiro o segundo número e depois o primeiro número, 
+# caso contrário, mostre primeiro o  número e depois o segundo.
 
 num1 = int(input("Digite um número inteiro:"))
 num2 = int(input("Digite mais um número inteiro:"))
