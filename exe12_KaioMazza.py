@@ -2,9 +2,9 @@
 # Você deve poder calcular a soma (+), subtração (-), multiplicação (*) e divisão (/). 
 # Exiba o resultado da operação solicitada. (usar ELIF)
 
-num1 = int(input("Digite o primeiro número: "))
+num1 = float(input("Digite o primeiro número: "))
 operacao = str(input("Digite qual operação você deseja usar (+), (-), (*), (/): "))
-num2 = int(input("Digite o segundo número: "))
+num2 = float(input("Digite o segundo número: "))
 
 if operacao.__eq__("+"):
     resultado = num1 + num2
