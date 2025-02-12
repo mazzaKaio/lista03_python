@@ -11,7 +11,7 @@ else:
     if idade >= 16:
         print("Você pode votar!")
     else:
-        if idade == 14:
+        if idade == 14 or idade == 15:
             print("Você pode comprar um bilhete de loteria!")
         else:
             print("Você pode fazer doces ou travessuras!")
