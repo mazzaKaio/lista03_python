@@ -8,7 +8,7 @@ if salario <= 1250:
 else:
     aumento = 0.10
 
-salarioPromocao = salario * aumento
+salarioPromocao = salario + (salario * aumento)
 
 print("Seu salário pós-aumento será de:", salarioPromocao)
 print("'Kaio Gomes do Nascimento Mazza'")
