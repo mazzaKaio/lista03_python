@@ -24,3 +24,4 @@ elif operacao.__eq__("/"):
 
 else:
     print("Operação não aceita!")
+print("'Kaio Gomes do Nascimento Mazza'")
