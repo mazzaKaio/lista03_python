@@ -13,3 +13,4 @@ if estaChovendo.lower().__eq__("sim"):
         print("\nPegue um guarda-chuva!")
 else:
     print("\nEntão, aproveite seu dia!")
+print("'Kaio Gomes do Nascimento Mazza'")

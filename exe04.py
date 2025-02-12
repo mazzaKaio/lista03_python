@@ -8,3 +8,4 @@ if cor.lower().__eq__("vermelho"):
     print("Eu também gosto de vermelho!")
 else:
     print("Eu não gosto de", cor, ", eu prefiro vermelho!")
+print("'Kaio Gomes do Nascimento Mazza'")

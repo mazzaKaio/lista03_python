@@ -15,3 +15,4 @@ else:
             print("Você pode comprar um bilhete de loteria!")
         else:
             print("Você pode fazer doces ou travessuras!")
+print("'Kaio Gomes do Nascimento Mazza'")
