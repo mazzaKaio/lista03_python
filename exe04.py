@@ -4,7 +4,7 @@
 
 cor = input("Digite sua cor favorita: ")
 
-if cor.lower() == "vermelho":
+if cor.lower().__eq__("vermelho"):
     print("Eu também gosto de vermelho!")
 else:
     print("Eu não gosto de", cor, ", eu prefiro vermelho!")
